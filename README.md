@@ -5,7 +5,7 @@
 🎓 Electronics & Communication Engineering Graduate
 
 💡 Dedicated to building modern, user-friendly web applications, tackling real-world problems, and embracing continuous learning in the ever-evolving world of technology.
-------
+---------
  
  👨‍💻 About Me
 
@@ -14,7 +14,7 @@
 💻 Interested in Software Development and Modern Web Technologies
 🎯 Seeking opportunities to expand my knowledge, take on new challenges, and grow as a developer.
 📍 India
---------
+---------
 
  🚀 Skills
 
@@ -37,7 +37,7 @@
 - GitHub
 - VS Code
 - Eclipse IDE
--------
+---------
 ### 📊 GitHub Stats
 
 ![Krupa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krupamallikarjun10-boop&show_icons=true&theme=tokyonight)
@@ -70,9 +70,8 @@
 - Implemented audio alert functionality to notify users of potential obstacles.
 - Added vibration-based feedback for enhanced navigation and safety.
 - Improved independent mobility and collision avoidance through smart obstacle detection.
-
+---------
 #### Quote
 🔥 Passionate about technology, driven by innovation, and committed to continuous growth.
-
-
+---------
 <h1 align="center">⭐ Thanks for visiting my profile!</h1>
