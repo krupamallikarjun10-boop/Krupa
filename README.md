@@ -8,11 +8,11 @@
  
  👨‍💻 About Me
 
-- 💻 Passionate Java Full Stack Developer and Frontend Developer
-- 🌱 Currently learning my skills in Java and Web Development
-- 💻 Interested in Software Development and Modern Web Technologies
-- 🎯 Seeking opportunities to expand my knowledge, take on new challenges, and grow as a developer.
-- 📍 India
+💻 Passionate Java Full Stack Developer and Frontend Developer
+🌱 Currently learning my skills in Java and Web Development
+💻 Interested in Software Development and Modern Web Technologies
+🎯 Seeking opportunities to expand my knowledge, take on new challenges, and grow as a developer.
+📍 India
 
  🚀 Skills
 
@@ -73,4 +73,4 @@
 🔥 Passionate about technology, driven by innovation, and committed to continuous growth.
 
 
-⭐ Thanks for visiting my profile!
+<h1 align="center">⭐ Thanks for visiting my profile!</h1>
