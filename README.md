@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krupa Mallikarjun</h1>
+
 - 👩‍💻 Innovative Java Full Stack Developer | Frontend Developer
+
 - 🎓 Electronics & Communication Engineering Graduate
+
 - 💡 Dedicated to building modern, user-friendly web applications, tackling real-world problems, and embracing continuous learning in the ever-evolving world of technology.
  
  👨‍💻 About Me
