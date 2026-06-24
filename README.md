@@ -5,6 +5,7 @@
 🎓 Electronics & Communication Engineering Graduate
 
 💡 Dedicated to building modern, user-friendly web applications, tackling real-world problems, and embracing continuous learning in the ever-evolving world of technology.
+------
  
  👨‍💻 About Me
 
