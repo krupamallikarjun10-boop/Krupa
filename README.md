@@ -14,6 +14,7 @@
 💻 Interested in Software Development and Modern Web Technologies
 🎯 Seeking opportunities to expand my knowledge, take on new challenges, and grow as a developer.
 📍 India
+--------
 
  🚀 Skills
 
@@ -36,23 +37,23 @@
 - GitHub
 - VS Code
 - Eclipse IDE
-
+-------
 ### 📊 GitHub Stats
 
 ![Krupa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krupamallikarjun10-boop&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krupamallikarjun10-boop&layout=compact&theme=tokyonight)
 
-
+---------
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=krupamallikarjun10-boop&theme=tokyonight)
-
+-----
 ### 📫 Connect With Me
 
 - GitHub: https://github.com/krupamallikarjun10-boop
 - LinkedIn: https://www.linkedin.com/in/krupa-m-s-773813269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Email: krupamallikarjun10@gmail.com
-
+---------
 
 ### 🌟 Featured Projects
 
